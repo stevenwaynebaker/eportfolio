@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Steven Baker"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a undergraduate student at the University of South Alabama, planning to graduate with degrees in mathematics and psychology"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
