@@ -3,4 +3,4 @@ permalink: /resume/
 title: "Resume"
 ---
 
-Resume goes here
+[Resume as PDF](/assets/resume.pdf)
