@@ -11,6 +11,6 @@ $$1, 2, 3, 5, 8, 13, 21, 34, 55, 89, \dots$$</p>
 <p>By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.</p>
 
 
-<iframe src="../../euler.html">
+<iframe width="100%" height="400px" src="../../euler.html">
 
 Here is a solution to Euler Problem number 2, which is to get the sum of all the numbers of the Fibonacci sequence up to 4,000,000. This is done by first starting with the first two terms of the sequence, checking if `b` is even (this eventually checks all of the numbers aside from `a` and does not need to check `a`, because `a` is 1, which is odd). If `b` is even, then it gets added to `even_sum`. `a` and `b` are then reproduced to get the next number in the sequence, and this process repeats until the number in the `b` variable reaches 4,000,000.
