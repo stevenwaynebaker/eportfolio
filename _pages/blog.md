@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-title: "Blog Post"
+title: "Blog"
 ---
 
 This semester we learned about...
