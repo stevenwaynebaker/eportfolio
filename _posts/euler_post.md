@@ -3,6 +3,7 @@ title: "Euler Problem"
 categories:
   - Blog
 tags:
+  - Post Formats
   - Jekyll
 ---
 
