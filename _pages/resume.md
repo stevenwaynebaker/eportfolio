@@ -81,6 +81,5 @@ title: "Resume"
 - UBGOOD Scholarship for graduating high school seniors who attended Orange Beach Elementary School
 - Mark D. Fillers Scholarship - for orphans, foster children, or adopted children who display exceptional scholastic achievement
 - 2023 South Alabama Summer Undergraduate Research Fellowship (SURF)
-```
 
-This markdown document reflects the content of the resume. You can use this format to display the resume on platforms that support markdown rendering, like GitHub or certain blogging platforms.
+
