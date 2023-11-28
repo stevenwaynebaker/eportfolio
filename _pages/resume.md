@@ -5,10 +5,6 @@ title: "Resume"
 
 [Resume as PDF](/eportfolio/assets/resume.pdf)
 
-
-Here is the markdown version of "Steven Baker Resume":
-
-```markdown
 # Steven Baker Resume
 
 ## Education
